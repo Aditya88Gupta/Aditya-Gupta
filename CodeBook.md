@@ -13,7 +13,7 @@ The modifications made in the original dataset :-
 * Appropriately labeling the data set with descriptive variable names
 * Creating an independent tidy data set with the average of each variable for each activity and subject
 
-### Variable Description 
+### *Variable Description* 
 
 Following are the variables in the final dataset
 
