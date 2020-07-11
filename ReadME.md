@@ -22,3 +22,6 @@
 ### *TidyData.txt*
 
 * Text file containing the final processed data with the average of each variable for each activity and subject.
+
+**The dataset used in this course project represent the data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]**
